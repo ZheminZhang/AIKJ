@@ -48,7 +48,7 @@
     "selectedColor": "#1AAD19"
   },
   "networkTimeout": {
-    "request": 3000
+    "request": 10000
   },
   "plugins": {
     "WechatSI": {
